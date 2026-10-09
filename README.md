@@ -1,75 +1,103 @@
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="Chandrasekhar's GitHub ASCII profile" src="dark_mode.svg" width="100%" />
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="chandhu3095's GitHub profile" src="dark_mode.svg" />
-</picture>
+  # Hi, I'm Chandrasekhar Mangali 👋
 
+  ### Aspiring AI/ML Engineer | Data Science | Generative AI
 
-# Chandrasekhar Mangali
+  *Building practical AI solutions, predictive models, and intelligent applications.*
 
-Aspiring AI and Machine Learning Engineer with a background in Artificial Intelligence and Data Science. I build practical projects across data analytics, machine learning, generative AI, retrieval-augmented generation, and AI agents.
+  <a href="https://github.com/chandhu3095"><img src="https://img.shields.io/badge/GitHub-chandhu3095-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/chandrasekharmangali"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:chandrasekharchandhu97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-## Areas of Interest
+---
 
-- Machine Learning and Predictive Modeling
-- Data Analytics and Data Visualization
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI and Autonomous Workflows
-- AI Application Development and Deployment
+## 👨‍💻 About Me
 
-## Technical Skills
+I'm an Artificial Intelligence and Data Science graduate interested in building practical solutions using machine learning, data analytics, and generative AI.
 
-**Programming & Data**
-Python, SQL, Pandas, NumPy
+- 🤖 Exploring machine learning, predictive modeling, and AI engineering.
+- 📊 Working with data analysis, feature engineering, and visualization.
+- 🧠 Learning to build RAG applications and AI agents.
+- 🚀 Developing end-to-end ML applications and exploring deployment with FastAPI.
+- 🎯 Seeking opportunities in Data Analytics, Data Science, Machine Learning, and AI Engineering.
 
-**Machine Learning**
-Scikit-learn, XGBoost, Feature Engineering, Model Evaluation, SHAP
+## 🛠️ Tech Stack
 
-**Data Visualization**
-Power BI, Matplotlib, Seaborn
+**Languages & Data**
 
-**Generative AI & AI Engineering**
-LangChain, LangGraph, RAG, Vector Databases, LLM Applications
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Backend & Development Tools**
-FastAPI, Git, GitHub, Jupyter Notebook, VS Code
+**Machine Learning & Analytics**
 
-## Selected Projects
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-### Formula 1 Race Outcome Prediction
-Machine learning project focused on predicting Formula 1 race finishing positions using feature engineering, XGBoost, SHAP explainability, and Power BI dashboards.
+**Generative AI & Backend**
 
-Repository: [Formula 1 Race Outcome Prediction](https://github.com/chandhu3095/Formula-1-Race-Outcome-Prediction)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-6A5ACD?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Bank Marketing Term Deposit Prediction
-Machine learning classification project focused on predicting customer term-deposit subscriptions using data preprocessing, feature engineering, predictive modeling, and evaluation techniques.
+**Tools & Workflow**
 
-Repository: [Bank Marketing Term Deposit Prediction](https://github.com/chandhu3095/Bank-Marketing-Term-Deposit-Prediction-ML)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## Current Focus
+## 🚀 Featured Projects
 
-Currently building and improving projects involving:
+### 🏎️ Formula 1 Race Outcome Prediction
 
-- End-to-end machine learning systems
-- RAG-based applications
-- AI agents using LangGraph
-- FastAPI for AI and ML deployment
-- Data analytics and visualization
+Machine learning project focused on predicting race finishing positions through feature engineering, XGBoost, model explainability, and visualization.
 
-## Career Interests
+**Tech:** Python · SQL · XGBoost · SHAP · Power BI
 
-I am actively seeking opportunities and building projects aligned with:
+[**View Repository →**](https://github.com/chandhu3095/Formula-1-Race-Outcome-Prediction)
 
-- Data Analyst
-- Data Scientist
-- Machine Learning Engineer
-- AI Engineer
-- Generative AI Engineer
+### 📈 Bank Marketing Term Deposit Prediction
 
-## Contact
+Classification project focused on predicting customer term-deposit subscriptions using data preprocessing, feature engineering, predictive modeling, and evaluation.
 
-LinkedIn: [Chandrasekhar Mangali](https://www.linkedin.com/in/chandrasekharmangali)
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Machine Learning
 
-Email: chandrasekharchandhu97@gmail.com
+[**View Repository →**](https://github.com/chandhu3095/Bank-Marketing-Term-Deposit-Prediction-ML)
+
+## 🎯 Current Focus
+
+- Building end-to-end machine learning projects.
+- Developing retrieval-augmented generation (RAG) applications.
+- Exploring AI agents and LangGraph workflows.
+- Learning to serve ML models with FastAPI.
+- Strengthening SQL, analytics, and model evaluation skills.
+
+## 💼 Career Interests
+
+Data Analyst · Data Scientist · Machine Learning Engineer · AI Engineer · Generative AI Engineer
+
+## 🤝 Let's Connect
+
+I'm open to connecting with engineers, data professionals, recruiters, and teams working on AI, machine learning, and analytics.
+
+- **LinkedIn:** [Chandrasekhar Mangali](https://www.linkedin.com/in/chandrasekharmangali)
+- **Email:** [chandrasekharchandhu97@gmail.com](mailto:chandrasekharchandhu97@gmail.com)
+- **GitHub:** [@chandhu3095](https://github.com/chandhu3095)
+
+---
+
+<div align="center">
+  <i>Learning continuously. Building thoughtfully. Improving with every project.</i>
+</div>
