@@ -1,3 +1,11 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="chandhu3095's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
 # Chandrasekhar Mangali
 
 Aspiring AI and Machine Learning Engineer with a background in Artificial Intelligence and Data Science. I build practical projects across data analytics, machine learning, generative AI, retrieval-augmented generation, and AI agents.
